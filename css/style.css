@@ -1,0 +1,103 @@
+h1 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 120px;
+    line-height: 48px;
+    color: #FFFFFF;
+}
+h2 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 48px;
+    color: #FFFFFF;
+}
+h4 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 65px;
+    color: #2E4555;
+}
+.nav-link {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 70px;
+    color: #FFFFFF;
+}
+.nav-link:hover {
+    color: #FADF55;
+}
+.btn {
+    background: #E6641B;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 33px;
+    color: #FFFFFF;
+    border-radius: 65px;
+    border: none;
+}
+.btn:hover {
+    background: #FADF55;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 33px;
+    color: #2E4555;
+    border-radius: 65px;
+}
+nav {
+    color: #ffffff;
+}
+.form_select {
+    border-radius: 65px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 33px;
+    color: #2E4555;
+    border: none;
+}
+.card {
+    border-radius: 65px;
+    box-shadow: 0px 10px 20px rgba(46, 69, 85, 0.1);
+    height:610px
+}
+.card img {
+    margin-top:60px;
+}
+h5 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 65px;
+    color: #2E4555; 
+}
+.card p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 500;
+    line-height: 33px;
+    color: #2E4555;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+h3 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 48px;
+    text-align: center;
+    color: #2E4555;
+}
